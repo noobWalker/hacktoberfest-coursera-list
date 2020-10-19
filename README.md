@@ -1,2 +1,2 @@
 # hacktoberfest-coursera-list
-cousera courses for biginner
+cousera courses for beginners
